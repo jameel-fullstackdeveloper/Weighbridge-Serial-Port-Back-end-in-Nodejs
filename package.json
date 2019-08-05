@@ -1,0 +1,33 @@
+{
+  "name": "serialport-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameel-fullstackdeveloper/Weighbridge-Serial-Port-Back-end-in-Nodejs.git"
+  },
+  "keywords": [
+    "serialport",
+    "backend-",
+    "weighbridge",
+    "serial",
+    "port",
+    "reading",
+    "in",
+    "nodejs"
+  ],
+  "author": "Jameel Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameel-fullstackdeveloper/Weighbridge-Serial-Port-Back-end-in-Nodejs/issues"
+  },
+  "homepage": "https://github.com/jameel-fullstackdeveloper/Weighbridge-Serial-Port-Back-end-in-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
